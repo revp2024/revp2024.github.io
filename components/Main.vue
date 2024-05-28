@@ -41,6 +41,10 @@ function shuffle(array) {
         original image in its processed version. The figure shows our reconstructions and the processed images.</div>
     </div>
 
+    <div class="section-title">Demo</div>
+    <iframe src="https://revp2024-revp.hf.space" frameborder="0" style="width: 100%; aspect-ratio: 16/10;"></iframe>
+
+
     <div class="section-title">Abstract</div>
     <p>
       As large pretrained models gain traction, we find that large pretrained autoencoders (AEs) are surprisingly
@@ -96,7 +100,7 @@ function shuffle(array) {
 }
 
 .image {
-  margin:1.5rem 0 1rem 0;
+  margin: 1.5rem 0 1rem 0;
   line-height: 0;
 }
 
