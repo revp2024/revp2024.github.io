@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     plugins: [ViteYaml()],
   },
   gtag: {
-    id: 'G-J7PR4VPYSC'
+    id: 'G-J7PR4VPYSC',
   },
 })
 
